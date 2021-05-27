@@ -1,0 +1,125 @@
+{
+  "basic_info": {
+    "description_header": "Hello",
+    "description": "👋 I'm Dan Tu. I'm currently a Front-end Developer for Zones LLC in Auburn, Washington. I have a serious passion for UI effects, animations and creating intuitive, dynamic user experiences.",
+    "section_name": {
+      "about": "About",
+      "projects": "Projects",
+      "skills": "Skills",
+      "experience": "Experience"
+    }
+  },
+  "projects": [
+    {
+      "title": "Disney+ Clone",
+      "startDate": "2021",
+      "description": "Disney+ Clone website with Login and Sign Out authentication. Built with React.js(styled components & redux). Deployed to firebase.",
+      "images": [
+        "images/disney.png",
+        "images/disney2.png"
+      ],
+      "url": "https://disneyplus-clone-c6882.web.app/",
+      "technologies": [
+        {
+          "class": "devicon-react-plain",
+          "name": "React.js"
+        }
+      ]
+    },
+    {
+      "title": "Spotify Clone",
+      "startDate": "2020",
+      "description": "Spotify Clone created using their API as well as React.js and heavy custom CSS/ SASS. Deployed to firebase.",
+      "images": [
+        "images/spotty.png",
+        "images/spotty2.png"
+      ],
+      "url": "https://danspotifyclone-ac81d.web.app/player",
+      "technologies": [
+        {
+          "class": "devicon-react-original",
+          "name": "React"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS3"
+        },
+        {
+          "class": "devicon-sass-plain",
+          "name": "SCSS"
+        }
+      ]
+    },
+    {
+      "title": "Albany Med RouteFinder",
+      "startDate": "2018",
+      "description": "Designed, deployed and maintained a simple mobile app ie. Albany Med RouteFinder utilizing React Native. The app provides an easy to use UI for maps, walking & driving directions as well as ideal parking locations across the hospital campus.",
+      "images": [
+        "images/amc.png",
+        "images/amc2.png"
+      ],
+      "url": "https://apps.apple.com/us/app/albany-med-routefinder/id1437642866",
+      "technologies": [
+        {
+          "class": "devicon-react-plain",
+          "name": "React"
+        },
+        {
+          "class": "devicon-typescript-plain",
+          "name": "TypeScript"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS3"
+        },
+        {
+          "class": "devicon-nodejs-plain",
+          "name": "Node.js"
+        },
+        {
+          "class": "devicon-mongodb-plain",
+          "name": "MongoDB"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "Zones LLC. - Auburn, Washington",
+      "title": "Front-end Developer | Contractor",
+      "years": "12/2020 - present",
+      "mainTech": [
+        "React"
+      ],
+      "technologies": [
+        ""
+      ]
+    },
+    {
+      "company": "Albany Medical Center - Albany, NY",
+      "title": "Applications Developer | Full-Time",
+      "years": "05/2019 - 11/2020",
+      "mainTech": [
+        "React Native"
+      ],
+      "technologies": [
+        ""
+      ]
+    },
+    {
+      "company": "Sidearm Sports - Syracuse, NY",
+      "title": "Full-stack Developer | Intern",
+      "years": "09/2018 - 04/2019",
+      "mainTech": [
+        "React"
+      ],
+      "technologies": [
+        ""
+      ]
+    }
+  ]
+}
