@@ -1,7 +1,7 @@
 {
   "basic_info": {
     "description_header": "Hello",
-    "description": "👋 I'm Dan Tu. I'm currently a Front-end Developer for Zones LLC in Auburn, Washington. I have a serious passion for UI effects, animations and creating intuitive, dynamic user experiences.",
+    "description": "👋 I'm Dan Tu. I'm currently a Front-end Developer for Zones LLC in Auburn, Washington. I have a serious passion for UI effects, animations and creating intuitive, dynamic user experiences. I have a strong preference for easy to use, intuitive UX/UI. My layouts will work on any device, big or small. Fast load times and lag free interaction, my highest priority.",
     "section_name": {
       "about": "About",
       "projects": "Projects",
@@ -22,7 +22,15 @@
       "technologies": [
         {
           "class": "devicon-react-plain",
-          "name": "React.js"
+          "name": "React"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "Javascript"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS3"
         }
       ]
     },
@@ -69,10 +77,6 @@
           "name": "React"
         },
         {
-          "class": "devicon-typescript-plain",
-          "name": "TypeScript"
-        },
-        {
           "class": "devicon-css3-plain",
           "name": "CSS3"
         },
@@ -83,6 +87,86 @@
         {
           "class": "devicon-mongodb-plain",
           "name": "MongoDB"
+        }
+      ]
+    },
+    {
+      "title": "Food Delivery App",
+      "startDate": "2018",
+      "description": "Food Delivery App built using React Native and Google Maps API.",
+      "images": [
+        "images/foodDeliv.jpg"
+      ],
+      "url": "https://github.com/dguyentu/foodDeliveryApp",
+      "technologies": [
+        {
+          "class": "devicon-react-plain",
+          "name": "React"
+        },
+        {
+          "class": "devicon-java-plain",
+          "name": "Java"
+        },
+        {
+          "class": "devicon-ruby-plain",
+          "name": "Ruby"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS3"
+        }
+      ]
+    },
+    {
+      "title": "UAlbany Sports/ E-commerce Site",
+      "startDate": "2018",
+      "description": "Part of a team of 5. During my internship I helped developed the front-end of ualbanysports.com. Primarily responsible for the merchandise & gear section.",
+      "images": [
+        "images/UA.jpg",
+        "images/UA2.jpg"
+      ],
+      "url": "https://ualbanysports.com/index.aspx",
+      "technologies": [
+        {
+          "class": "devicon-dot-net-plain",
+          "name": ".NET"
+        },
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML5"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS3"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "Javascript"
+        }
+      ]
+    },
+    {
+      "title": "Online Portfolio/Blog Website Templates",
+      "startDate": "2017",
+      "description": "Free Portfolio Website Templates found on my github. This one has a blog section to showcase your work.",
+      "images": [
+        "images/blog.jpg",
+        "images/blog2.jpg",
+        "images/blog3.jpg"
+      ],
+      "url": "https://dguyentu.github.io/freePortfolioTemplate2/",
+      "technologies": [
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML5"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS3"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "Javascript"
         }
       ]
     }
@@ -104,7 +188,7 @@
       "title": "Applications Developer | Full-Time",
       "years": "05/2019 - 11/2020",
       "mainTech": [
-        "React Native"
+        "React"
       ],
       "technologies": [
         ""
@@ -115,7 +199,7 @@
       "title": "Full-stack Developer | Intern",
       "years": "09/2018 - 04/2019",
       "mainTech": [
-        "React"
+        "ASP.NET"
       ],
       "technologies": [
         ""
