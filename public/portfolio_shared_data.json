@@ -21,11 +21,6 @@
         "name": "linkedIn",
         "url": "https://www.linkedin.com/in/daniel-tu-08081614a/",
         "class": "fab fa-linkedin"
-      },
-      {
-        "name": "instagram",
-        "url": "https://www.instagram.com/d_guyen/",
-        "class": "fab fa-instagram"
       }
     ],
     "image": "myProfile.jpg"

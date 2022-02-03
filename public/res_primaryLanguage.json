@@ -1,7 +1,7 @@
 {
   "basic_info": {
     "description_header": "Hello",
-    "description": "👋 I'm Dan Tu. I'm currently a Front-end Developer for Zones LLC in Auburn, Washington. I have a serious passion for UI effects, animations and creating intuitive, dynamic user experiences. I have a strong preference for easy to use, intuitive UX/UI. My layouts will work on any device, big or small. Fast load times and lag free interaction, my highest priority.",
+    "description": "👋 I'm Dan Tu. I'm currently a Front-end Developer for Raymour & Flanigan Furniture Co Inc. based in Liverpool, NY. I have a serious passion for UI effects, animations and creating intuitive, dynamic user experiences. I have a strong preference for easy to use, intuitive UX/UI. My layouts will work on any device, big or small. Fast load times and lag free interaction, my highest priority.",
     "section_name": {
       "about": "About",
       "projects": "Projects",
@@ -10,6 +10,32 @@
     }
   },
   "projects": [
+    {
+      "title": "Raymour & Flanigan",
+      "startDate": "2022",
+      "description": "Collaborated with project management and graphic designers to give the Raymour & Flanigan website a facelift. Resulted in increase 15% faster loading speed as well as increased 20% sales conversions.",
+      "images": [
+        "images/rf.png",
+        "images/rf1.png",
+        "images/rf2.png",
+        "images/rf3.png"
+      ],
+      "url": "https://www.raymourflanigan.com/",
+      "technologies": [
+        {
+          "class": "devicon-react-plain",
+          "name": "React.js"
+        },
+        {
+          "class": "devicon-html5-plain",
+          "name": "HTML"
+        },
+        {
+          "class": "devicon-css3-plain",
+          "name": "CSS3"
+        }
+      ]
+    },
     {
       "title": "Disney+ Clone",
       "startDate": "2021",
@@ -173,9 +199,20 @@
   ],
   "experience": [
     {
+      "company": "Raymour & Flanigan Furniture Co Inc.",
+      "title": "Senior Front-end Developer | Full-Time",
+      "years": "01/2021 - present",
+      "mainTech": [
+        "React | Python"
+      ],
+      "technologies": [
+        ""
+      ]
+    },
+    {
       "company": "Zones LLC. - Auburn, Washington",
       "title": "Front-end Developer | Contractor",
-      "years": "12/2020 - present",
+      "years": "12/2020 - 01/2021",
       "mainTech": [
         "React"
       ],
@@ -188,7 +225,7 @@
       "title": "Applications Developer | Full-Time",
       "years": "05/2019 - 11/2020",
       "mainTech": [
-        "React"
+        "Javascript"
       ],
       "technologies": [
         ""
