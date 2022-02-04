@@ -4,6 +4,7 @@ import folderTypeMongodbOpened from '@iconify-icons/vscode-icons/folder-type-mon
 import expressIcon from '@iconify-icons/simple-icons/express';
 import reactIcon from "@iconify/icons-logos/react";
 import nodejsIcon from "@iconify/icons-logos/nodejs";
+import pythonIcon from "@iconify/icons-logos/python";
 
 class About extends Component {
   render() {
@@ -31,20 +32,24 @@ class About extends Component {
                     src={profilepic}
                     alt="Avatar placeholder"
                   />
-                  <Icon
+                  {/* <Icon
                     icon={folderTypeMongodbOpened}
                     style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
-                  />
-                  <Icon
+                  /> */}
+                  {/* <Icon
                     icon={expressIcon}
                     style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
-                  />
+                  /> */}
                   <Icon
                     icon={reactIcon}
                     style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
                   />
                   <Icon
                     icon={nodejsIcon}
+                    style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
+                  />
+                  <Icon
+                    icon={pythonIcon}
                     style={{ fontSize: "400%", margin: "9% 5% 0 5%" }}
                   />
                 </span>

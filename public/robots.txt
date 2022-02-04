@@ -1,3 +1,10 @@
 # https://www.robotstxt.org/robotstxt.html
 User-agent: *
 Disallow:
+
+for package.json:
+Push to gh-pages
+"homepage": "https://dguyentu.github.io/myPortfolio",
+
+Working on localhost:
+"homepage": "https://localhost:3000",
